@@ -5,7 +5,10 @@ Jenga Docs helps users quickly create digital invoices and receipts without find
 ```
 ## Project setup
 ```
-npm install root folder
+Git clone project to machine
+Please ensure you have NPM and Vuejs installed on machine. 
+run npm install in root folder
+after dependacies are installed run npm run serve to run project locally
 ```
 
 ### Compiles and hot-reloads for development
